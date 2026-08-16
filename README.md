@@ -74,4 +74,4 @@ To make enterprise-grade security accessible during development, helping teams d
 
 ---
 
-Built with ❤️ by Bernardo (Berd) and the ShadowNet Team.
+Built with ❤️ by Bernardo and the ShadowNet Team.
